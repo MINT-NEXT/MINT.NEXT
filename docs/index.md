@@ -10,9 +10,9 @@ Um zu sehen, wo Hilfe benötigt wird, welche Vereine & Initiativen gut laufen un
 
 Mit den Antworten gehen wir selbstverständlich verantwortungsbewusst um.
 
-Hintergrund: https://www.silberkind.de/blog/edtech-unite-bcmuc/
-Sammlung der Fragen: https://mensuel.framapad.org/p/CZ2Lddd9Sl
+* Hintergrund: https://www.silberkind.de/blog/edtech-unite-bcmuc/
+* Sammlung der Fragen: https://mensuel.framapad.org/p/CZ2Lddd9Sl
 
-Kontakt:
-Nils Hitze: nhitze@gmail.com
-Maximilian Krüger: Marcus.Aurelius@gallimathias.de
+> Kontakt:
+> * Nils Hitze: nhitze@gmail.com
+> * Maximilian Krüger: Marcus.Aurelius@gallimathias.de
