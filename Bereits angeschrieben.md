@@ -17,14 +17,14 @@
 * Coder Dojo Pforzheim - coderdojo@gnetx.com @noob_dev_tv
 * Coder Dojo Potsdam - coderdojopotsdam-discuss@googlegroups.com @noob_dev_tv
 * Coder Dojo Rhein-Nahe - rheinnahe.de@coderdojo.com @noob_dev_tv
-* Coder Dojo Wiesbaden - coderdojo-team@bonifatius-wiesbaden.de 	-Failure (spam) @noob_dev_tv
+* Coder Dojo Wiesbaden - ~~coderdojo-team@bonifatius-wiesbaden.de   -Failure (spam)~~  Nochmal angeschrieben durch Impressum: kirchengemeinde@bonifatius-wiesbaden.de @noob_dev_tv
 * Coder Dojo Würzburg - coderdojo@randombit.eu @noob_dev_tv
 * Kids4IT - kontakt@kids4it.de @noob_dev_tv
 * start Coding - info@start-coding.de @noob_dev_tv
 * Jugend Hackt - maria.reimer@okfn.de
-* FabLab München - info@fablab-muenchen.de -Failure (spam) @noob_dev_tv
+* FabLab München - ~~info@fablab-muenchen.de    -Failure (spam)~~ über Facebook @noob_dev_tv
 * DatenSchule - info@datenschule.de @noob_dev_tv
-* HackerSchool - info@hacker-school.de 				-Failure (spam) @noob_dev_tv
+* HackerSchool - ~~info@hacker-school.de  -Failure (spam)~~ über Facebook @noob_dev_tv
 * AppCamps - philipp@appcamps.de @noob_dev_tv
 * CodingSchule - kontakt@codingschule.de @noob_dev_tv
 * Chaos macht Schule - mail@ccc.de @noob_dev_tv
