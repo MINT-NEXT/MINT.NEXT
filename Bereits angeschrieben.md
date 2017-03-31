@@ -31,3 +31,6 @@
 * Cook and Code - Facebook @noob_dev_tv
 * Digitale Werkstatt @kojote
 * Knowledge foundation @kojote
+* Tinkerbot @kojote
+* informatica feminale if@informatica-feminale.de  @noob_dev_tv
+* Code Girls info@codegirls.de @noob_dev_tv
