@@ -17,6 +17,20 @@
 * Jugendhackt https://jugendhackt.org/
 * Fablab München http://www.fablab-muenchen.de bzw fablabkids http://fablabkids.de
 * Datenschule https://datenschule.de/
+* hack.institute http://hack.institute
+* DEVOCC4KIDS http://www.devoxx4kids.de/
+* Techkids e.V. https://www.teckids.org/
+* Rail Girls http://railsgirls.com/
+* Unicrons in Tech http://unicornsintech.com/
+* Refugees on Rails http://refugeesonrails.org/de/
+* Django Girls https://djangogirls.org/
+* Coder Girls http://codegirls.de/
+* Heart of Code http://heartofcode.org/
+* HAEQS https://haeqs.xyz/
+* freeCodeCamp https://www.freecodecamp.com/
+* OpenTechSchool http://www.opentechschool.org/ 
+
+
 
 ## Initiativen mit finanziellem Ziel
 * Tynker https://www.tynker.com/
@@ -27,3 +41,4 @@
 * Jugend Netz Berlin - stellt Links zu Seiten bereit, auf denen man Programmieren lernen kann.
 * 10 Stellen, wo jeder coden lernen kann
 * 10 Orte, wo man anfangen kann Programmieren zu lernen - manche davon auch in Deutsch(land)
+* https://ewolff.github.io/bildungsinitiativen/
