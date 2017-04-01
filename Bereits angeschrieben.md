@@ -34,3 +34,10 @@
 * Tinkerbot @kojote
 * informatica feminale if@informatica-feminale.de  @noob_dev_tv
 * Code Girls info@codegirls.de @noob_dev_tv
+* Hobby Himmel info@hobbyhimmel.de @noob_dev_tv
+* Jugendforschungszentrum Sindelfingen jfz@junge-forscher.info @noob_dev_tv
+* Devoxx4Kids info@devoxx4kids.de @noob_dev_tv
+* TechKids e.V. vorstand@teckids.org @noob_dev_tv
+* Refugees on Rail contact@refugeesonrails.org @noob_dev_tv
+* Jugendfroschungszentrum Calw H.Ammann@jfz-calw.de @noob_dev_tv
+* Jugendforschungszentrum Schwarzwald-Schönbuch e.V. mail@jugendforschungszentrum.de @noob_dev_tv
