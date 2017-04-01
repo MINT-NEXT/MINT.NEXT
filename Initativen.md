@@ -31,10 +31,12 @@
 * OpenTechSchool http://www.opentechschool.org/ 
 
 
-
 ## Initiativen mit finanziellem Ziel
 * Tynker https://www.tynker.com/
 * Code Club World - eine Liste von Programmierklubs weltweit (15 Projekte in DE, kein Koordinator) https://www.codeclubworld.org/get-involved/become-a-local-partner/
+
+## Initativen ohne IT als Primäres Ziel
+* Hobby Himmel - http://hobbyhimmel.de
 
 ## Sonstiges
 * Einstieg in die Informatik -  eine Übersichtsseite des BWINF
