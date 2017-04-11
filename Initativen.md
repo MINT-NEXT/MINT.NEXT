@@ -29,7 +29,7 @@
 * HAEQS https://haeqs.xyz/
 * freeCodeCamp https://www.freecodecamp.com/
 * OpenTechSchool http://www.opentechschool.org/ 
-
+* Verbund Offener Werkstätten e.V. www.offene-werkstaetten.org
 
 ## Initiativen mit finanziellem Ziel
 * Tynker https://www.tynker.com/
