@@ -72,6 +72,7 @@
 1. LeineLab https://www.leinelab.org/doku.php
 1. OpenLab Augsburg https://openlab-augsburg.de/
 1. Thüringer Initiative zur Förderung von Informationstechnologie e.V. https://www.tif-it.org/doku.php?id=start
+1. Freiraum Zittau https://netz.freiraumzittau.de/wiki/werkraum:start
 
 ## Initiativen mit finanziellem Ziel
 1. Tynker https://www.tynker.com/
@@ -79,7 +80,6 @@
 1. Lerneprogrammieren.de https://lerneprogrammieren.de/
 1. Hackerspace 3D Berlin http://www.youin3d.com/hackerspace-3d-berlin-headquarter/
 1. 3D Druckzentrum Ruhr http://www.3d-druckzentrum-ruhr.de/
-1. Freiraum Zittau https://netz.freiraumzittau.de/wiki/werkraum:start
 
 ## Initativen ohne IT als Primäres Ziel
 1. Hobby Himmel - http://hobbyhimmel.de
