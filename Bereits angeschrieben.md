@@ -149,3 +149,4 @@
 1. Hackerspace Ulm vorstand@lists.hackerspace-ulm.de
 1. Nerdbridge info@nerdbridge.de
 1. Berliner Linux User Group kontakt@belug.de
+1. ShackSpace kontakt@shackspace.de
