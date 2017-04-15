@@ -82,7 +82,7 @@
 1. fnordeingang verein@fnordeingang.de
 1. Raumfahrtagentur info@raumfahrtagentur.org
 1. xHain x-hain@posteo.de (ausversehen mit anderer Mail)
-1. MagLab kontakt@mag.lab.sh
+1. MagLab ~~kontakt@mag.lab.sh~~ --> Message Delivery Failure
 1. Freiraum Zittau hackerspace@lists.freiraumzittau.de
 1. Binary Kitchen vorstand@binary-kitchen.de 
 1. FabLab Neckar-Alb info@fablab-neckar-alb.org
@@ -90,3 +90,62 @@
 1. LeineLab hspace@lists.leinelab.org Fehlgeschlagen
 1. OpenLab Augsburg kontakt@openlab-augsburg.de
 1. Thüringer Initiative zur Förderung von Informationstechnologie e.V.  info@tif-it.org
+1. Sublab kontakt@sublab.org
+1. Mainframe vorstand@kreativitaet-trifft-technik.de
+1. Hackerspace FFM public@hackerspace-ffm.de
+1. Abteilung-für-Redundanz-Abteilung info@afra-berlin.de
+1. FabLab Cottbus info@fablab-cottbus.de
+1. K4CG info@k4cg.org
+1. c-base vorstand@c-base.org
+1. C3PB mail@c3pb.de
+1. MaschinenRaum maschinenraum@subsignal.org
+1. CCC Cologne mail@koeln.ccc.de
+1. CCC Mainz / Wiesbaden kontakt@cccmz.de
+1. Netzladen info@netzladen.org
+1. CCC Berlin mail@berlin.ccc.de
+1. Linux UserGroup Regensburg Sw2090@gmx.de
+1. Attraktor Hamburg office@attraktor.org
+1. CCC Hamburg mail@hamburg.ccc.de
+1. Backspace vorstand@hackerspace-bamberg.de
+1. das Labor  info@das-labor.org
+1. Computer Club Itzehoe info@cciz.de
+1. Section77 info@section77.de
+1. Hackerspace Bielefeld vorstand@hackerspace-bielefeld.de
+1. C-Hack = Jugendforschungszentrum Calw :)
+1. Forschung und Technik info@futev.de
+1. Netz39 kontakt@netz39.de
+1. Maschinendeck kontakt@maschinendeck.org 
+1. Heidelberg Makerspace lukas.freeze@gmail.com
+1. VSpace vorstand@lists.vspace.one 
+1. Hackerspace Bremen  info@hackerspace-bremen.de
+1. Entropia info@entropia.de
+1. CCC Frankfurt noreply@ccc-ffm.de
+1. Chaosdorf mail@chaosdorf.de
+1. Initiative e.V. info@inihaus.de
+1. Toppoint vorstand@toppoint.de
+1. Warpzone office@warpzone.ms
+1. NordLab e.V. nordlab@lists.nordlab-ev.de 
+1. hacKNology info@hacknology.de
+1. technik.cafe kontakt@technik.cafe
+1. Hackerspace Wetzlar HackerSpaceWZ@gmail.com
+1. C3D2  mail@c3d2.de
+1. Chaos Darmstadt public@lists.darmstadt.ccc.de
+1. FabLab Lüneburg hallo@fablab-lueneburg.org
+1. Schaffenburg e.V. kontakt@schaffenburg.org
+1. see-base kommunikation@see-base.de
+1. Hacklabor inbox@hacklabor.de
+1. Chaostreff Chemnitz kontakt@chaoschemnitz.de
+1. Stratum 0 kontakt@stratum0.org
+1. Chaotikum vorstand@chaotikum.org
+1. Wurmloch  hallo@wurmloch.de
+1. Freies Labor Hildesheim kontakt@freieslabor.org
+1. CCC Manheim  info@ccc-mannheim.de
+1. Bastelbude Dinslaken Kontaktformular
+1. CCC Aachen mail@aachen.ccc.de
+1. Imaginärraum apo2k4@gmail.com
+1. Planraum kontakt@planraum.org
+1. HSMR poststelle@hsmr.cc
+1. Hackzogtum Coburg info@hackzogtum-coburg.de
+1. Hackerspace Ulm vorstand@lists.hackerspace-ulm.de
+1. Nerdbridge info@nerdbridge.de
+1. Berliner Linux User Group kontakt@belug.de
