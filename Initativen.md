@@ -73,6 +73,66 @@
 1. OpenLab Augsburg https://openlab-augsburg.de/
 1. Thüringer Initiative zur Förderung von Informationstechnologie e.V. https://www.tif-it.org/doku.php?id=start
 1. Freiraum Zittau https://netz.freiraumzittau.de/wiki/werkraum:start
+1. Sublab http://www.sublab.org/
+1. Mainframe http://www.mainframe.io/
+1. Hackerspace FFM http://hackerspace-ffm.de/
+1. Abteilung-für-Redundanz-Abteilung https://afra-berlin.de/dokuwiki/doku.php
+1. FabLab Cottbus http://blog.fablab-cottbus.de/
+1. K4CG https://k4cg.org/index.php/N%C3%BCrnberger_Hackerspace_K4CG
+1. c-base https://c-base.org/
+1. C3PB https://c3pb.de/
+1. MaschinenRaum http://maschinenraum.tk/
+1. CCC Cologne https://koeln.ccc.de/
+1. CCC Mainz / Wiesbaden https://www.cccmz.de/
+1. Netzladen https://netzladen.org/
+1. CCC Berlin https://berlin.ccc.de/wiki/Hauptseite
+1. Linux UserGroup Regensburg http://www.lugr.de/
+1. Attraktor Hamburg https://blog.attraktor.org/
+1. CCC Hamburg https://www.hamburg.ccc.de/
+1. Backspace https://www.hackerspace-bamberg.de/Hauptseite
+1. das Labor https://www.das-labor.org/?lang=de
+1. Computer Club Itzehoe http://www.cciz.de/nc/navigation/home/
+1. Section77 https://www.section77.de/
+1. Hackerspace Bielefeld e.V. https://hackerspace-bielefeld.de/
+1. C-Hack http://c-hack.de/
+1. Forschung und Technik https://forschungundtechnikev.de/
+1. Netz39 http://www.netz39.de/
+1. Maschinendeck http://www.maschinendeck.org/
+1. Heidelberg Makerspace https://wiki.heidelberg-makerspace.de/wiki/Main_Page
+1. VSpace https://vspace.one/
+1. Hackerspace Bremen https://www.hackerspace-bremen.de/
+1. Entropia https://entropia.de/Hauptseite
+1. CCC Frankfurt e.V. https://ccc-ffm.de/
+1. Eigenbaukombinat https://eigenbaukombinat.de/
+1. Chaosdorf https://chaosdorf.de/
+1. Initiative e.V. http://init.inihaus.de/
+1. Toppoint http://toppoint.de/
+1. Warpzone https://www.warpzone.ms/
+1. NordLab e. V. http://www.nordlab-ev.de/
+1. hacKNology https://www.hacknology.de/
+1. technik.cafe http://technik.cafe/
+1. hackerspace Wetzlar http://hackerspace.f19.de/
+1. C3D2 https://www.c3d2.de/
+1. Chaos Darmstadt https://www.chaos-darmstadt.de/
+1. FabLab Lüneburg https://fablab-lueneburg.org/
+1. Schaffenburg e.V. https://schaffenburg.org/
+1. see-base https://see-base.de/
+1. Hacklabor https://hacklabor.de/
+1. Chaostreff Chemnitz https://www.chaoschemnitz.de/Hauptseite
+1. Stratum 0 https://stratum0.org/wiki/Hauptseite
+1. Chaotikum https://chaotikum.org/
+1. Wurmloch https://wurmloch.de/
+1. Freies Labor Hildesheim http://blog.freieslabor.org/
+1. CCC Manheim https://www.ccc-mannheim.de/wiki/Hauptseite
+1. Bastelbude Dinslaken http://bastelbude.grade.de/
+1. CCC Aachen https://aachen.ccc.de/
+1. Imaginärraum https://imaginaerraum.de/
+1. Planraum http://planraum.org/
+1. HSMR https://hsmr.cc/
+1. Hackzogtum Coburg http://hackzogtum-coburg.de/
+1. Hackerpspace Ulm http://hackerspace-ulm.de/
+1. Nerdbridge https://nerdbridge.de/
+1. Berliner Linux User Group https://belug.de/
 
 ## Initiativen mit finanziellem Ziel
 1. Tynker https://www.tynker.com/
@@ -92,3 +152,4 @@
 1. 10 Stellen, wo jeder coden lernen kann
 1. 10 Orte, wo man anfangen kann Programmieren zu lernen - manche davon auch in Deutsch(land)
 1. https://ewolff.github.io/bildungsinitiativen/
+1. https://wiki.hackerspaces.org/
