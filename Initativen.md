@@ -133,6 +133,7 @@
 1. Hackerpspace Ulm http://hackerspace-ulm.de/
 1. Nerdbridge https://nerdbridge.de/
 1. Berliner Linux User Group https://belug.de/
+1. ShackSpace http://shackspace.de/shackspace.de/index.php
 
 ## Initiativen mit finanziellem Ziel
 1. Tynker https://www.tynker.com/
