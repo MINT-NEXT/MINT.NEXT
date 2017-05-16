@@ -37,7 +37,7 @@
 1. Hobby Himmel info@hobbyhimmel.de @noob_dev_tv
 1. Jugendforschungszentrum Sindelfingen jfz@junge-forscher.info @noob_dev_tv
 1. Devoxx4Kids info@devoxx4kids.de @noob_dev_tv
-1. TechKids e.V. vorstand@teckids.org @noob_dev_tv
+1. Teckids e.V. vorstand@teckids.org @noob_dev_tv
 1. Refugees on Rail contact@refugeesonrails.org @noob_dev_tv
 1. Jugendfroschungszentrum Calw H.Ammann@jfz-calw.de @noob_dev_tv
 1. Jugendforschungszentrum Schwarzwald-Schönbuch e.V. mail@jugendforschungszentrum.de @noob_dev_tv
