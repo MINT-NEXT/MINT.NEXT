@@ -1,9 +1,42 @@
 # Eine Übersicht der Initativen
 ## Kostenfreie/NonProfit Initiativen
-1. Calliope mini http://calliope.cc
-1. CoderDojo Germany https://zen.coderdojo.com/?list=true#Germany
-1. Haba Digitalwerkstatt http://digitalwerkstatt.de
-1. PiClub Erfindergarden München http://www.erfindergarden.de/kurse-workshops/
+1.  ### **Calliope mini**
+    * **Name**: Calliope gemeinnützige GmbH
+    * **Website**: http://calliope.cc
+    * **Addresse**:
+        *Calliope gemeinnützige GmbH*
+        *Linienstraße 52*
+        *10119 Berlin*
+        *Deutschland*
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -    
+---
+2. ### **CoderDojo Germany**
+    * **Name**: CoderDojo Foundation
+    * **Website**: https://zen.coderdojo.com/?list=true#Germany 
+    * **Addresse**:
+        *Dogpatch Labs Unit 1*
+        *The CHQ building*
+        *Custom House Quay*
+        *Dublin, Ireland*
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: *CoderDojo;Dachverband*
+---
+3. ### **HABA Digitalwerkstatt**
+    * **Name**: HABA Digital GmbH
+    * **Website**: http://digitalwerkstatt.de
+    * **Addresse**:
+        *HABA Digital GmbH*
+        *Linienstr. 121*
+        *10115 Berlin*
+        *Deutschland*
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
+---
+4. PiClub Erfindergarden München http://www.erfindergarden.de/kurse-workshops/
 1. Roberta - Lernen mit Robotern https://www.open-roberta.org/willkommen/
 1. Chaos macht Schule https://ccc.de/schule
 1. Kids4IT https://www.kids4it.de/
