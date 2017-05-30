@@ -124,25 +124,139 @@ Informationssysteme
     * **Beschreibung**: -
     * **Tags**: -
 ---
-11. Cook and Code https://www.facebook.com/cookandcode/
+11. ### **Cook and Code**
+    * **Name**: Alexander Hoffmann
+    * **Website**: https://andcode.de/cook
+    * **Addresse**:
+        *Alexander Hoffmann*;
+        *Steinstr. 73*;
+        *81667 München*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-12. Codingschule https://www.codingschule.de/
+12. ### **Codingschule**
+    * **Name**: Codingschule e. K.
+    * **Website**: https://www.codingschule.de/
+    * **Addresse**:
+        *Codingschule e. K.*;
+        *Mindener Straße 30*;
+        *40227 Düsseldorf*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-13. Start Coding e.V. http://start-coding.de
+13. ### **Start Coding**
+    * **Name**: Start Coding e. V.
+    * **Website**: http://start-coding.de
+    * **Addresse**:
+        *Start Coding e. V.*;
+        *Anna-Louisa-Karsch-Straße 2*;
+        *10178 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-14. CodeWeek.eu http://codeweek.eu/
+14. ### **CodeWeek**
+    * **Name**: CodeWeek.eu
+    * **Website**: http://codeweek.eu/
+    * **Addresse**: -
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-15. Jugendhackt https://jugendhackt.org/
+15. ### **Jugendhackt**
+    * **Name**: Open Knowledge Foundation Deutschland e.V.
+    * **Website**: https://jugendhackt.org/
+    * **Addresse**:
+        *Open Knowledge Foundation Deutschland e.V.*;
+        *Singer Straße 109*;
+        *10179 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-16. Fablab München http://www.fablab-muenchen.de bzw fablabkids http://fablabkids.de
+16. ### **FabLab München**
+    * **Name**: FabLab München e.V.
+    * **Website**: http://www.fablab-muenchen.de
+    * **Addresse**:
+        *FabLab München
+Gewerbehof Westend*;
+        *Gollierstraße 70
+Eingang D, Erdgeschoß*;
+        *80339 München*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: - 
 ---
-17. Datenschule https://datenschule.de/
+16. ### **FabLab Kids**
+    * **Name**: FabLab München e.V.
+    * **Website**: http://fablabkids.de
+    * **Addresse**:
+        *FabLab München
+Gewerbehof Westend*;
+        *Gollierstraße 70
+Eingang D, Erdgeschoß*;
+        *80339 München*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: - 
 ---
-18. hack.institute http://hack.institute
+17. ### **Datenschule**
+    * **Name**: Open Knowledge Foundation Deutschland e.V.
+    * **Website**: https://datenschule.de/
+    * **Addresse**:
+        *Open Knowledge Foundation Deutschland e.V.*;
+        *Singerstr. 109*;
+        *10179 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -  
 ---
-19. DEVOCC4KIDS http://www.devoxx4kids.de/
+18. ### **hack.institue**
+    * **Name**: hack.institute UG
+    * **Website**: http://hack.institute
+    * **Addresse**:
+        *hack.institute UG*;
+        *An der Bottmühle 5*;
+        *50678 Köln*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-20. Techkids e.V. https://www.teckids.org/
+19. ### **DEVOXX4KIDS**
+    * **Name**: synyx GmbH & Co. KG
+    * **Website**: http://www.devoxx4kids.de/
+    * **Addresse**:
+        *synyx GmbH & Co. KG
+        Open Source Solutions*;
+        *Gartenstraße 67*;
+        *76135 Karlsruhe*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: - 
+---
+20. ### **Teckids**
+    * **Name**: Teckids e.V.
+    * **Website**: https://www.teckids.org/
+    * **Addresse**:
+        *Teckids e.V.
+c/o tarent solutions GmbH*;
+        *Rochusstr. 2-4*;
+        *53123 Bonn*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: - 
 ---
 21. Rail Girls http://railsgirls.com/
 ---
