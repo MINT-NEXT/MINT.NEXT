@@ -10,7 +10,7 @@ Um zu sehen, wo Hilfe benötigt wird, welche Vereine & Initiativen gut laufen un
 Mit den Antworten gehen wir selbstverständlich verantwortungsbewusst um.
 
 * Hintergrund: https://www.silberkind.de/blog/edtech-unite-bcmuc/
-* Allgemeine Gedanken: https://mensuel.framapad.org/p/CZ2Lddd9Sl
+* Allgemeine Gedanken: https://github.com/MINT-NEXT/MINT.NEXT/blob/master/Gedanken.md
 
 Kontakt:
 * Nils Hitze: nhitze@gmail.com
