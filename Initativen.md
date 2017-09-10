@@ -654,8 +654,7 @@ c/o tarent solutions GmbH*;
     * **Beschreibung**: -
     * **Tags**: -
 ---
-56. Chaostreff Dortmund https://www.chaostreff-dortmund.de/
-### **Chaostreff Dortmund**
+56. ### **Chaostreff Dortmund**
     * **Name**: Chaostreff Dortmund e.V.
     * **Website**: https://www.chaostreff-dortmund.de/
     * **Addresse**:
@@ -691,8 +690,7 @@ c/o tarent solutions GmbH*;
     * **Beschreibung**: -
     * **Tags**: -
 ---
-59. DingFabrik http://dingfabrik.de/
-### **DingFabrik**
+59. ### **DingFabrik**
     * **Name**: DingFabrik Köln e.V.
     * **Website**: http://dingfabrik.de/
     * **Addresse**:
