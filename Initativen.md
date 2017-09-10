@@ -258,83 +258,463 @@ c/o tarent solutions GmbH*;
     * **Beschreibung**: -
     * **Tags**: - 
 ---
-21. Rail Girls http://railsgirls.com/
+21. ### **Rail Girls**
+    * **Name**: Rail Girls
+    * **Website**: http://railsgirls.com/
+    * **Addresse**:
+        *-*;
+        *-*;
+        *-*;
+        *-*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-22. Unicrons in Tech http://unicornsintech.com/
+22. ### **Unicrons in Tech**
+    * **Name**: Uhlala GmbH
+    * **Website**: http://unicornsintech.com/
+    * **Addresse**:
+        *Uhlala GmbH*;
+        *Wichertstr. 9a*;
+        *10439 Berlin*;
+        *Germany *;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-23. Refugees on Rails http://refugeesonrails.org/de/
+23. ### **Refugees on Rails**
+    * **Name**: Refugees on Rails e. V.
+    * **Website**: http://refugeesonrails.org/de/
+    * **Addresse**:
+        *Refugees on Rails e. V.*;
+        *Stresemannstr. 23, c/o WunderAgent*;
+        *10963 Berlin*;
+        *Germany*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -  
 ---
-24. Django Girls https://djangogirls.org/
+24. ### **Django Girls**
+    * **Name**: Django Girls Foundation
+    * **Website**: https://djangogirls.org/
+    * **Addresse**:
+        *United House*;
+        *North Road*;
+        *London N7 9DP*;
+        *United Kingdom*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-25. Coder Girls http://codegirls.de/
+25. ### **Coder Girls**
+    * **Name**: Coder Girls
+    * **Website**: http://codegirls.de/
+    * **Addresse**:
+        *-*;
+        *-*;
+        *Leipzig-Plagwitz*;
+        *Germany*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-26. Heart of Code http://heartofcode.org/
+26. ### **Heart of Code**
+    * **Name**: Heart of Code
+    * **Website**: http://heartofcode.org/
+    * **Addresse**:
+        *Heart of Code*;
+        *Egmontstr. 4a*;
+        *Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-27. HAEQS https://haeqs.xyz/
+27. ### **HAEQS**
+    * **Name**: queer feminist hackspace berlin
+    * **Website**: https://haeqs.xyz/
+    * **Addresse**:
+        *-*;
+        *-*;
+        *Berlin*;
+        *-*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-28. freeCodeCamp https://www.freecodecamp.com/
+28. ### **freeCodeCamp**
+    * **Name**: freeCodeCamp
+    * **Website**: https://www.freecodecamp.com/
+    * **Addresse**:
+        *-*;
+        *-*;
+        *-*;
+        *-*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-29. OpenTechSchool http://www.opentechschool.org/ 
+29. ### **OpenTechSchool**
+    * **Name**: OpenTechSchool e.V.
+    * **Website**: http://www.opentechschool.org/ 
+    * **Addresse**:
+        *OpenTechSchool e.V. c/o co.up *;
+        *Adalbertstr. 8*;
+        *10999 Berlin*;
+        *Germany*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-30. Verbund Offener Werkstätten e.V. www.offene-werkstaetten.org
+30. ### **Verbund Offener Werkstätten**
+    * **Name**: Verbund Offener Werkstätten e.V.
+    * **Website**: http://www.offene-werkstaetten.org
+    * **Addresse**:
+        *Verbund Offener Werkstätten e.V. c/o Günter Schütz*;
+        *Obstmarkt 11*;
+        *86152 Augsburg*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-31. bits'n'bugs e.V. https://erlangen.ccc.de/index.php/Hauptseite
+31. ### **bits'n'bugs**
+    * **Name**: bits'n'bugs e.V
+    * **Website**: https://erlangen.ccc.de/index.php/Hauptseite
+    * **Addresse**:
+        *E-Werk Kulturzentrum GmbH / Computergruppe*;
+        *Fuchsenwiese 1*;
+        *91054 Erlangen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-32. ByteWerk http://bytewerk.org/
+32. ### **ByteWerk**
+    * **Name**: Bürgernetzverein Ingolstadt e.V. - bingo e.V
+    * **Website**: http://example.de
+    * **Addresse**:
+        *Bürgernetzverein Ingolstadt e.V. - bingo e.V*;
+        *Krumenauerstr. 54 *;
+        *85049 Ingolstadt*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-33. FabLab Aachen http://hci.rwth-aachen.de/fablab
+33. ### **FabLab Aachen**
+    * **Name**: FabLab Aachen
+    * **Website**: http://hci.rwth-aachen.de/fablab
+    * **Addresse**:
+        *-*;
+        *-*;
+        *-*;
+        *-*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -   
 ---
-34. IN-Berlin http://www.in-berlin.de/
+34. ### **IN-Berlin**
+    * **Name**: Individual Network Berlin e.V.
+    * **Website**: http://www.in-berlin.de/
+    * **Addresse**:
+        *Individual Network Berlin e.V.*;
+        *Lehrter Str. 53*;
+        *10557 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -    
 ---
-35. Bildungs- und Forschungszentrum Berlin e.V. http://www.bfz-berlin.org/
+35. ### **Bildungs- und Forschungszentrum Berlin**
+    * **Name**: Bildungs- und Forschungszentrum Berlin e.V.
+    * **Website**: http://www.bfz-berlin.org/
+    * **Addresse**:
+        *Bildungs- und Forschungszentrum Berlin e.V.*;
+        *Kühleweinstraße 5*;
+        *13409 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: KONTAKT
+    * **Beschreibung**: BESCHREIBUNG
+    * **Tags**: TAG1;TAG2.....
 ---
-36. Open Laboratory http://www.open-laboratory.de/
+36. ### **Open Laboratory**
+    * **Name**: Open Laboratory e.V.
+    * **Website**: http://www.open-laboratory.de/
+    * **Projekt wurde leider aufgelöst**
+    * **Kontakt**: paladin@pilarkto.org
 ---
-37. Reaktor 23 https://reaktor23.org/start
+37. ### **Reaktor 23**
+    * **Name**: Reaktor 23
+    * **Website**: https://reaktor23.org/start
+    * **Addresse**:
+        *-*;
+        *-*;
+        *Waldshut-Tiengen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-38. Linux User Group http://lug-saar.de/
+38. ### **Linux User Group Saar**
+    * **Name**: Linux User Group Saar e.V.
+    * **Website**: http://lug-saar.de/
+    * **Addresse**:
+        *Linux User Group Saar e.V.*;
+        *Linux User Group Saar e.V.*;
+        *66740 Saarlouis*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-39. Turmlabor http://www.turmlabor.de/about
+39. ### **Turmlabor**
+    * **Name**: Hochschulgruppe Turmlabor
+    * **Website**: http://www.turmlabor.de
+    * **Addresse**:
+        *Hochschulgruppe Turmlabor c/o Fachschaftsrat Elektrotechnik*;
+        *Technische Universität Dresden*;
+        *01062 Dresden*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-40. GarageLab http://garage-lab.de/
+40. ### **GarageLab**
+    * **Name**: GarageLab e.V.
+    * **Website**: http://garage-lab.de/
+    * **Addresse**:
+        *GarageLab e.V.*;
+        *Rather Straße 25 Hinterhof*;
+        *40476 Düsseldorf*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-41. Spline https://spline.de/about/
+41. ### **Spline**
+    * **Name**: Freie Universität Berlin / Institut für Informatik
+    * **Website**: https://spline.de
+    * **Addresse**:
+        *Freie Universität Berlin Institut für Informatik spline*;
+        *Takustr. 9*;
+        *14195 Berlin*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-42. DigitAC e.V. http://digitac.cc/
+42. ### **DigitAC**
+    * **Name**: Digitales Aachen e. V.
+    * **Website**: http://digitac.cc/
+    * **Addresse**:
+        *Digitales Aachen e. V.*;
+        *Martinstraße 10-12 2. Hinterhof rechts*;
+        *52062 Aachen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-43. Chaos Computer Club Freiburg https://cccfr.de/
+43. ### **Chaos Computer Club Freiburg**
+    * **Name**: Chaos Computer Club Freiburg e.V.
+    * **Website**: https://cccfr.de/
+    * **Addresse**:
+        *Chaos Computer Club Freiburg e.V.*;
+        *Dunantstraße 16a*;
+        *79110 Freiburg *;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-45. RaumZeitLabor https://raumzeitlabor.de/
+45. ### **RaumZeitLabor**
+    * **Name**: RaumZeitLabor e.V.
+    * **Website**: https://raumzeitlabor.de/
+    * **Addresse**:
+        *RaumZeitLabor e.V.*;
+        *Boveristraße 22-24*;
+        *68309 Mannheim*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-46. Hackerspace Saarbrücken https://www.hacksaar.de/
+46. ### **Hackerspace Saarbrücken**
+    * **Name**: Technik Kultur Saar e.V. 
+    * **Website**: https://www.hacksaar.de/
+    * **Addresse**:
+        *Technik Kultur Saar e.V.*;
+        *St.-Josef-Straße 8*;
+        *66115 Saarbrücken*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-47. embassy of Nerdistan http://embassy.ccchb.de/
+47. ### **embassy of Nerdistan**
+    * **Name**: Chaos Computer Club Bremen e.V.
+    * **Website**: http://embassy.ccchb.de/
+    * **Gibt es leider nicht mehr**
+    * **Kontakt:** Chaos Computer Club Bremen e.V.
 ---
-48. FabLab Nürnberg http://fablab-nuernberg.de/
+48. ### **FabLab Nürnberg**
+    * **Name**: Fab Lab Region Nürnberg e.V.
+    * **Website**: http://fablab-nuernberg.de/
+    * **Addresse**:
+        *Fab Lab Region Nürnberg e.V.*;
+        *Muggenhofer Straße 141*;
+        *90429 Nürnberg*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-49. Fau FabLab https://fablab.fau.de/
+49. ### **Fau FabLab**
+    * **Name**: Technischen Fakultät der Universität Erlangen-Nürnberg. Lehrstuhl für Informatik 
+    * **Website**: https://fablab.fau.de/
+    * **Addresse**:
+        *FAU FabLab c/o Lehrstuhl für Informatik 3*;
+        *Martensstr. 3*;
+        *91058 Erlangen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-50. Krautspace https://kraut.space/
+50. ### **Krautspace**
+    * **Name**: Hackspace Jena e. V. 
+    * **Website**: https://kraut.space/
+    * **Addresse**:
+        *Hackspace Jena e. V.*;
+        *Krautgasse 26*;
+        *07743 Jena*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-51. /dev/tal e.V. http://www.devtal.de/blog/
+51. ### **/dev/tal**
+    * **Name**: /dev/tal e.V.
+    * **Website**: http://www.devtal.de/blog/
+    * **Addresse**:
+        */dev/tal e.V.*;
+        *Mirker Straße 48*;
+        *42105 Wuppertal*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-52. MetMeute http://www.metameute.de/
+52. ### **MetaMeute**
+    * **Name**: Matthias Schiffer
+    * **Website**: http://www.metameute.de/
+    * **Addresse**:
+        *Matthias Schiffer*;
+        *Ratzeburger Allee 92a*;
+        *23562 Lübeck *;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-53. Technikkultur Erfurt https://technikkultur-erfurt.de/start
+53. ### **Technikkultur Erfurt**
+    * **Name**: Verein zur Förderung von Technikkultur in Erfurt e. V.
+    * **Website**: https://technikkultur-erfurt.de/start
+    * **Addresse**:
+        *Verein zur Förderung von Technikkultur in Erfurt e. V.*;
+        *Liebknechtstraße 8*;
+        *99085 Erfurt*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-54. DIY Campus http://campus.auge.de/
+54. ### **DIY Campus**
+    * **Name**: Three D Services | Marcus A. Link
+    * **Website**: http://campus.auge.de/
+    * **Addresse**:
+        *Three D Services | Marcus A. Link*;
+        *Cheruskerweg 56*;
+        *65929 Frankfurt*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-55. CCC Göttingen https://cccgoe.de/wiki/Hauptseite
+55. ### **CCC Göttingen**
+    * **Name**: Chaos Computer Club Göttingen e. V.
+    * **Website**: https://cccgoe.de/wiki/Hauptseite
+    * **Addresse**:
+        *Chaos Computer Club Göttingen e. V. c/o Krischan Jodies*;
+        *Humboldtallee 24*;
+        *37073 Göttingen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
 56. Chaostreff Dortmund https://www.chaostreff-dortmund.de/
+### **Chaostreff Dortmund**
+    * **Name**: Chaostreff Dortmund e.V.
+    * **Website**: https://www.chaostreff-dortmund.de/
+    * **Addresse**:
+        *Chaostreff Dortmund e.V.*;
+        *Braunschweiger Str. 22*;
+        *44145 Dortmund*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-57. Chaos inKL http://www.chaos-inkl.de/
+57. ### **Chaos inKL**
+    * **Name**: Chaos inKL. e.V.
+    * **Website**: http://www.chaos-inkl.de/
+    * **Addresse**:
+        *Chaos inKL. e.V.*;
+        *Rudolph-Breitscheid-Straße 65*;
+        *67655 Kaiserslautern*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-58. Hackerspace Rostock https://hack-hro.de/
+58. ### **Hackerspace Rostock**
+    * **Name**: Hackerspace Rostock
+    * **Website**: https://hack-hro.de/
+    * **Addresse**:
+        *-*;
+        *-*;
+        *-*;
+        *-*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
 59. DingFabrik http://dingfabrik.de/
+### **DingFabrik**
+    * **Name**: DingFabrik Köln e.V.
+    * **Website**: http://dingfabrik.de/
+    * **Addresse**:
+        *DingFabrik Köln e.V.*;
+        *Fritz-Voigt-Str. 1*;
+        *50823 Köln*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
-60. Hasi https://hasi.it/
+60. ### **Hasi**
+    * **Name**: Hasi e.V.
+    * **Website**: https://hasi.it/
+    * **Addresse**:
+        *Hasi e.V.*;
+        *Effertsufer 104*;
+        *57072 Siegen (NRW)*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 ---
 61. Toolbox Bodensee http://toolbox-bodensee.de/
 ---
@@ -488,6 +868,17 @@ c/o tarent solutions GmbH*;
 ---
 136. machBar Potsdam (Wissenschaftsladen Potsdam e.V.) www.machbar-potsdam.de
 ---
+137. ### **CCC Bremen**
+    * **Name**: Chaos Computer Club Bremen e.V.
+    * **Website**: https://ccchb.de/wiki/CCC_Bremen
+    * **Addresse**:
+        *Chaos Computer Club Bremen e.V.*;
+        *Hauffstraße 11*;
+        *28217 Bremen*;
+        *Deutschland*;
+    * **Kontakt**: -
+    * **Beschreibung**: -
+    * **Tags**: -
 
 ## Initiativen mit finanziellem Ziel
 1. Tynker https://www.tynker.com/
