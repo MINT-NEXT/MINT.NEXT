@@ -49,13 +49,13 @@ Gegen den Ausschließungsbeschluss kann innerhalb einer Frist von 3 Monaten nach
     * c) der Ausschuss
 
 ## § 7 Der Vorstand
-* (1) Der Vorstand besteht aus 3 Mitgliedern
+* (1) Der Vorstand besteht aus 2 Mitgliedern
 Er vertritt den Verein gerichtlich und außergerichtlich. Je zwei Vorstandsmitglieder sind gemeinsam vertretungsberechtigt.
 * (2) Der Vorstand wird von der Mitgliederversammlung für die Dauer von 2 Jahren gewählt.
 Die Wiederwahl der Vorstandsmitglieder ist möglich.
-Der Vorsitzende wird von der Mitgliederversammlung in einem besonderen Wahlgang bestimmt. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind.
+Der Vorsitzende des Vorstands ist das Vorstandsmitglied das die meisten Stimmen bekommen hat, zweiter Vorstand ist somit das Vorstandsmitglied mit den zweit meisten Stimmen. Bei stimmgleichheit wird der Vorsitzende von der Mitgliederversammlung in einem besonderen Wahlgang bestimmt. Die jeweils amtierenden Vorstandsmitglieder bleiben nach Ablauf ihrer Amtszeit im Amt, bis Nachfolger gewählt sind.
 * (3) Dem Vorstand obliegt die Führung der laufenden Geschäfte des Vereins. Er hat insbesondere folgende Aufgaben: Der Vorstand kann für die Geschäfte der laufenden Verwaltung einen Geschäftsführer bestellen. Dieser ist berechtigt, an den Sitzungen des Vorstandes mit beratender Stimme teilzunehmen.
-* (4) Vorstandssitzungen finden jährlich mindestens einmal je Quartal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den ersten Vorstand schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen. 
+* (4) Vorstandssitzungen finden jährlich mindestens zweimal statt. Die Einladung zu Vorstandssitzungen erfolgt durch den ersten Vorstand schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen. 
 * (5) Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit.
 * (6) Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und von zu unterzeichnen.
 * (7) Der Vorstand kann für seine Tätigkeit eine angemessene Vergütung erhalten.
@@ -81,7 +81,14 @@ Die Mitgliederversammlung entscheidet z. B. auch über
 * (7) Die Mitgliederversammlung wählt den Ausschuss auf 2 Jahre
 
 ## § 9 Ausschuss
-TODO
+(1) Der Ausschuss besteht aus von der Mitgliederversammlung gewählten Personen und dem gesamten Vorstand.
+(2) Der Ausschuss stellt einen erweiterten Vorstand dar.
+(3) Für den Ausschuss werden jährlich von der Mitgliederversammlung Teilnehmer gewählt.
+(4) Die größe des Ausschusses wird von der Mitgliederversammlung bestimmt und richtet sich nach der Anzahl der Vereinsmitglieder. Bei Festlegung der Größe findet die Mitgliedschaft der Vorstände keine Beachtung.
+(5) Die Mindestgröße des Ausschusses beträgt eine Person.
+(6) Der Ausschuss steht dem Vorstand als beratendes Gremium zur Verfügung.
+(7) Der Ausschuss kann durch einfache Mehrheit weitere Sonderausschüsse, Kommissionen und Arbeitsgruppen bilden.
+(8) Ausschusssitzungen finden jährlich mindestens einmal je Quartal statt. Die Einladung zu Ausschusssitzungen erfolgt durch den Vorstand schriftlich unter Einhaltung einer Einladungsfrist von mindestens 14 Tagen. 
 
 ## § 10 Aufwandsersatz
 * (1) Mitglieder soweit sie vom Vorstand oder dem Ausschuss beauftragt wurden und Vorstandsmitglieder haben einen Anspruch auf Ersatz der Aufwendungen, die ihnen im Rahmen ihrer Tätigkeit für den Verein entstanden sind. Dazu gehören insbesondere Reisekosten, Verpflegungsmehraufwendungen, Porto und Kommunikationskosten. 
